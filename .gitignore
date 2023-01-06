@@ -1,0 +1,7 @@
+# This is from when you create the API through Google
+credentials.json
+
+# This is the file that will be created after the first run
+token.pickle
+
+constants.py
